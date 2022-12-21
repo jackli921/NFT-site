@@ -9,8 +9,9 @@ A training project built to consolidate key concepts I learned from:
 **Module 6 - Responsive Design** [Scrimba Frontend Career Path Course](https://scrimba.com/learn/frontend) 
 
 ## Features
-- Scalable images
 - Mobile & desktop responsive navigation
+- Scalable images
+- Auto-resizing button 
 
 ## Demo
  ![](/images/demo.gif)
